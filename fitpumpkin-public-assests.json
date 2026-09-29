@@ -1,0 +1,22 @@
+{
+  "assets": {
+    "AUTH_LOGIN_ILLUSTRATION": "https://ileumhealth.com/mobile_assets/20ebc20a-33ef-4a7a-a0d9-067483e5a6f1.svg",
+    "BRAND_LOGO": "https://ileumhealth.com/mobile_assets/83d5587c-81e9-4845-8870-ec9b753a263d.svg",
+    "BRAND_WORDMARK_DARK": "https://ileumhealth.com/mobile_assets/6dca7716-78ef-42fd-b8a3-bbc28a840f8a.png",
+    "BRAND_WORDMARK_LIGHT": "https://ileumhealth.com/mobile_assets/f6657e1a-c5bc-4d70-b1ea-bc876049ed31.png",
+    "DIAGNOSTIC_APPOINTMENT_CONFIRMATION": "https://ileumhealth.com/mobile_assets/ea5b8333-3666-47b1-8134-bcf062a948cf.svg",
+    "DIAGNOSTIC_APPOINTMENT_SUCCESS_ICON": "https://ileumhealth.com/mobile_assets/1a3997d8-18af-4763-a809-03e66ada2ec5.svg",
+    "DIAGNOSTIC_MEDICATION_ADDED": "https://ileumhealth.com/mobile_assets/e73653ea-75eb-4631-8c7e-8bf7b6001a27.svg",
+    "DIAGNOSTIC_NO_MEDICATIONS": "https://ileumhealth.com/mobile_assets/d8ea48c7-f809-40e0-879d-1731cf6fa823.svg",
+    "FALLBACK_BREAKFAST": "https://ileumhealth.com/mobile_assets/0db5785b-e21d-4be4-a8b1-dbd0e467ab54.png",
+    "FALLBACK_DINNER": "https://ileumhealth.com/mobile_assets/69990b96-8ca9-4860-a5b7-6befd1cc16aa.png",
+    "FALLBACK_LUNCH": "https://ileumhealth.com/mobile_assets/a733bd6e-004e-41c6-9e31-08f1e0f5154d.png",
+    "FALLBACK_SNACKS": "https://ileumhealth.com/mobile_assets/93098d81-8aee-4193-b21e-15d10eddd23c.png",
+    "GROCERY_EMPTY_STATE": "https://ileumhealth.com/mobile_assets/4a521611-0726-4681-916d-f66bf9d9143b.svg",
+    "HOME_GREETING_LOGO": "https://ileumhealth.com/mobile_assets/8c7e8fe5-b349-4998-bd88-33a84ce68d43.svg",
+    "HOME_MEAL_GENERATOR_BANNER": "https://ileumhealth.com/mobile_assets/330e0fdc-574d-4f20-b8eb-435363a8a248.svg",
+    "MAINTENANCE": "https://ileumhealth.com/mobile_assets/6ac83a96-2c32-48f2-8c3f-7e8c642d4066.svg",
+    "MEAL_PLAN_EMPTY_CHEF": "https://ileumhealth.com/mobile_assets/fe6d52d8-2781-46b6-ab4c-6035afd2451d.svg",
+    "NEW_VERSION_AVAILABLE": "https://ileumhealth.com/mobile_assets/a5510979-ebee-4471-a360-5869c92d873a.svg"
+  }
+}
