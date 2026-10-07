@@ -1,9 +1,9 @@
 {
   "assets":{
   "ACTIVITY_DUMBBELL_ICON": "https://ileumhealth.com/mobile_assets/9b4509d5-5a21-4f0b-bbc7-e63f4d6fc47b.svg",
-  "ACTIVITY_RUNNING_SHOES_ICON": "https://ileumhealth.com/mobile_assets/3b3c4fdb-84fc-4520-a678-7b79110135f4.svg",
+  "ACTIVITY_RUNNING_SHOES_ICON": "https://ileumhealth.com/mobile_assets/7626e562-b9a4-435b-82cd-0c92b1b4b0fe.svg",
   "ACTIVITY_WALKING_ICON": "https://ileumhealth.com/mobile_assets/b6ee032a-1736-47ea-b52c-d09f26d367da.svg",
-  "ANALYTICS_BAR_CHART_ICON": "https://ileumhealth.com/mobile_assets/df69f28d-2909-4906-94e6-902cd03bc795.svg",
+  "ANALYTICS_BAR_CHART_ICON": "https://ileumhealth.com/mobile_assets/6bdad89c-2f29-439d-bfc0-8bbde3d2c3ac.svg",
   "AUTH_LOGIN_ILLUSTRATION": "https://ileumhealth.com/mobile_assets/20ebc20a-33ef-4a7a-a0d9-067483e5a6f1.svg",
   "BRAND_LOGO": "https://ileumhealth.com/mobile_assets/83d5587c-81e9-4845-8870-ec9b753a263d.svg",
   "BRAND_WORDMARK_DARK": "https://ileumhealth.com/mobile_assets/6dca7716-78ef-42fd-b8a3-bbc28a840f8a.png",
@@ -19,8 +19,8 @@
   "GROCERY_EMPTY_STATE": "https://ileumhealth.com/mobile_assets/4a521611-0726-4681-916d-f66bf9d9143b.svg",
   "HEALTH_DROP_PURPLE_ICON": "https://ileumhealth.com/mobile_assets/0b317f99-30fe-44d8-9159-4ed8dd8b4bd5.svg",
   "HEALTH_HEART_FILLED_ICON": "https://ileumhealth.com/mobile_assets/561ee7d3-e941-4406-87be-1f934f2c8c90.svg",
-  "HEALTH_SLEEP_MOON_ICON": "https://ileumhealth.com/mobile_assets/ad88b170-aae9-4ae6-9ebd-791d38a0dbba.svg",
-  "HEALTH_WATER_DROP_ICON": "https://ileumhealth.com/mobile_assets/ed228c5c-b704-4d0f-8ec2-ccda2f895803.svg",
+  "HEALTH_SLEEP_MOON_ICON": "https://ileumhealth.com/mobile_assets/ba7acb76-b13f-4a12-84aa-568193dca9b3.svg",
+  "HEALTH_WATER_DROP_ICON": "https://ileumhealth.com/mobile_assets/fc5701a3-2c67-49e2-88cf-d69a51b21b42.svg",
   "HOME_GREETING_LOGO": "https://ileumhealth.com/mobile_assets/8c7e8fe5-b349-4998-bd88-33a84ce68d43.svg",
   "HOME_MEAL_GENERATOR_BANNER": "https://ileumhealth.com/mobile_assets/330e0fdc-574d-4f20-b8eb-435363a8a248.svg",
   "MAINTENANCE": "https://ileumhealth.com/mobile_assets/6ac83a96-2c32-48f2-8c3f-7e8c642d4066.svg",
@@ -41,7 +41,7 @@
   "STATUS_CHECK_CIRCLE_ICON": "https://ileumhealth.com/mobile_assets/56147750-3c40-4779-90b6-c64446929a36.svg",
   "UI_CLIPBOARD_CHECK_ICON": "https://ileumhealth.com/mobile_assets/4c6718ba-4b1e-465c-9f1c-c6460380a339.svg",
   "UI_HEART_OUTLINE_ICON": "https://ileumhealth.com/mobile_assets/61d1250e-4338-4f0f-b43b-281393a8d8cc.svg",
-  "WATER_GLASS_ICON": "https://ileumhealth.com/mobile_assets/2e5b933d-b79b-45bd-8eb8-fe66d9dd0b12.png",
+  "WATER_GLASS_ICON": "https://ileumhealth.com/mobile_assets/de081359-8d7a-40a7-96df-18590ac09270.svg",
   "WEATHER_SUN_ICON": "https://ileumhealth.com/mobile_assets/a5f63851-ab6c-49e1-9222-77be73106d92.svg"
 }
 }
