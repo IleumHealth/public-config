@@ -26,6 +26,9 @@
   "HOME_GREETING_LOGO": "https://ileumhealth.com/mobile_assets/8c7e8fe5-b349-4998-bd88-33a84ce68d43.svg",
   "HOME_MEAL_GENERATOR_BANNER": "https://ileumhealth.com/mobile_assets/330e0fdc-574d-4f20-b8eb-435363a8a248.svg",
   "HYDRATION_GOAL_REACHED_ICON": "https://ileumhealth.com/mobile_assets/8e8073c0-df6c-4db1-ad44-3e9e628d35aa.png",
+  "INTRO_VID_1": "https://ileumhealth.com/mobile_assets/9b797bf8-ef3e-47d4-9e0c-1ada02cf6c78.gif",
+  "INTRO_VID_2": "https://ileumhealth.com/mobile_assets/cd55b7bf-5cc9-46f5-90a2-e903397ddb37.gif",
+  "INTRO_VID_3": "https://ileumhealth.com/mobile_assets/e8eb045b-cc89-45e2-a4f1-5bc14aec22c8.gif",
   "MAINTENANCE": "https://ileumhealth.com/mobile_assets/6ac83a96-2c32-48f2-8c3f-7e8c642d4066.svg",
   "MEAL_PLAN_EMPTY_CHEF": "https://ileumhealth.com/mobile_assets/fe6d52d8-2781-46b6-ab4c-6035afd2451d.svg",
   "NAVIGATION_ARROW_RIGHT_ICON": "https://ileumhealth.com/mobile_assets/89e39dd2-8921-4ac1-ab53-1649e8f6cd05.svg",
@@ -46,9 +49,6 @@
   "UI_CLIPBOARD_CHECK_ICON": "https://ileumhealth.com/mobile_assets/4c6718ba-4b1e-465c-9f1c-c6460380a339.svg",
   "UI_HEART_OUTLINE_ICON": "https://ileumhealth.com/mobile_assets/61d1250e-4338-4f0f-b43b-281393a8d8cc.svg",
   "WATER_GLASS_ICON": "https://ileumhealth.com/mobile_assets/41408e72-ac15-4f55-94d4-b3d592b6f36b.svg",
-  "WEATHER_SUN_ICON": "https://ileumhealth.com/mobile_assets/a5f63851-ab6c-49e1-9222-77be73106d92.svg",
- "INTRO_VID_1": "https://ileumhealth.com/mobile_assets/584e9cb9-4a6b-40af-9f46-bfb875ba5785.gif",
-  "INTRO_VID_2": "https://ileumhealth.com/mobile_assets/aac0afd7-4ef5-4385-bc03-7a62f017494a.gif",
-    "INTRO_VID_3": "https://ileumhealth.com/banners/9ad2f0f3-8f83-4541-86bf-68b764232841.mp4"
+  "WEATHER_SUN_ICON": "https://ileumhealth.com/mobile_assets/a5f63851-ab6c-49e1-9222-77be73106d92.svg"
 }
 }
