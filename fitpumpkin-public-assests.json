@@ -51,6 +51,6 @@
   "UI_HEART_OUTLINE_ICON": "https://ileumhealth.com/mobile_assets/61d1250e-4338-4f0f-b43b-281393a8d8cc.svg",
   "WATER_GLASS_ICON": "https://ileumhealth.com/mobile_assets/41408e72-ac15-4f55-94d4-b3d592b6f36b.svg",
   "WEATHER_SUN_ICON": "https://ileumhealth.com/mobile_assets/a5f63851-ab6c-49e1-9222-77be73106d92.svg",
-  "EXPO_PUBLIC_API_URL": "https://dev.fitpumpkin.com/api/fitpumpkin"
+  "EXPO_PUBLIC_API_URL": "https://stg.fitpumpkin.com/api/fitpumpkin"
 }
 }
