@@ -1,0 +1,7 @@
+{
+  "assets":{
+  },
+  "url":{
+    "API_BASE_URL": "https://stg.fitpumpkin.com/api/fitpumpkin"
+  }
+}
