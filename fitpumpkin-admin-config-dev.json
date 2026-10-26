@@ -3,7 +3,7 @@
   },
   "url":{
     "API_BASE_URL": "https://dev.fitpumpkin.com/api/fitpumpkin",
-    "VITE_IAM_REDIRECT_URI": "https://dev-admin.fitpumpkin.com/auth/callback",
-    "VITE_IAM_LOGOUT_REDIRECT_URI": "https://dev-admin.fitpumpkin.com/login"
+    "IAM_REDIRECT_URI": "https://dev-admin.fitpumpkin.com/auth/callback",
+    "IAM_LOGOUT_REDIRECT_URI": "https://dev-admin.fitpumpkin.com/login"
   }
 }
