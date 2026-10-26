@@ -2,6 +2,8 @@
   "assets":{
   },
   "url":{
-    "API_BASE_URL": "https://stg.fitpumpkin.com/api/fitpumpkin"
+    "API_BASE_URL": "https://stg.fitpumpkin.com/api/fitpumpkin",
+    "IAM_REDIRECT_URI": "https://stg-admin.fitpumpkin.com/auth/callback",
+    "IAM_LOGOUT_REDIRECT_URI": "https://stg-admin.fitpumpkin.com/login"
   }
 }
